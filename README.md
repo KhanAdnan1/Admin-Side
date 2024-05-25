@@ -1,2 +1,3 @@
 # Admin-Side
 Admin  App Front-End and Back-End
+The Full-Stack Library Admin Application is a comprehensive solution for library administrators to manage student records and library resources. With secure authentication and persistent sessions powered by JWT, admins can efficiently register and delete students, add and remove books and novels, and manage library notices and photos. The backend, built with Express and Node.js, interacts with MongoDB to store all relevant data securely. File uploads are handled efficiently using Multer, and the application supports cross-origin requests through CORS headers. The use of bodyParser facilitates the handling of incoming data, ensuring smooth communication between the frontend and backend components.
